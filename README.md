@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhamjakhmola" alt="shubhamjakhmola" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://shubhamjakhmola.github.io/ShubhamPortfolio/](https://shubhamjakhmola.github.io/ShubhamPortfolio/)
+- 👨‍💻 Visit My portfolio [https://shubhamjakhmola.github.io/ShubhamPortfolio/](https://shubhamjakhmola.github.io/ShubhamPortfolio/)
 
 - 📫 How to reach me **shubhamjakhmola008@gmail.com**
 
