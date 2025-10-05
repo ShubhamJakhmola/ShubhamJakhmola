@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Shubham Jakhmola</h1>
+<h3 align="center">Tech enthusiast skilled in web technologies,Cloud,server management, and cybersecurity, passionate about optimizing performance, ensuring security, and contributing to innovative projects.</h3>
 
-<!--
-**ShubhamJakhmola/ShubhamJakhmola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamjakhmola&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamjakhmola" /> </p>
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhamjakhmola" alt="shubhamjakhmola" /></a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 All of my projects are available at [https://shubhamjakhmola.github.io/ShubhamPortfolio/](https://shubhamjakhmola.github.io/ShubhamPortfolio/)
+
+- 📫 How to reach me **shubhamjakhmola008@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/shubhamjakhmola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubhamjakhmola" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shubhamjakhmola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhamjakhmola" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/shubhamjakhmola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shubhamjakhmola" height="30" width="40" /></a>
+<a href="https://fb.com/shubhamjakhmola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shubhamjakhmola" height="30" width="40" /></a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamjakhmola&show_icons=true&locale=en&layout=compact" alt="shubhamjakhmola" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhamjakhmola&show_icons=true&locale=en" alt="shubhamjakhmola" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamjakhmola&" alt="shubhamjakhmola" /></p>
