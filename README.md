@@ -2,7 +2,7 @@
 <h3 align="center">Tech enthusiast skilled in web technologies,Cloud,server management, and cybersecurity, passionate about optimizing performance, ensuring security, and contributing to innovative projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamjakhmola&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamjakhmola" /> </p>
-
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=shubhamjakhmola)" alt="shubhamjakhmola" /> </p>
 
 - 👨‍💻 Visit My portfolio [https://shubhamjakhmola.github.io/ShubhamPortfolio/](https://shubhamjakhmola.github.io/ShubhamPortfolio/)
 
