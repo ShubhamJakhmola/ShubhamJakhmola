@@ -19,45 +19,45 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 <details>
 <summary><b>Click to expand</b></summary>
 
-- 🎓 Master's in Cloud Computing  
-- 💼 Working as Cloud & System Administrator  
-- ☁️ Hands-on experience with AWS & Microsoft Azure  
-- 🐧 Strong Linux, Bash & Networking foundation  
-- 🔐 Security-first approach  
-- ⚡ Automate > Repeat  
+- Master's in Cloud Computing  
+- Working as Cloud & System Administrator  
+- Hands-on experience with AWS & Microsoft Azure  
+- Strong Linux, Bash & Networking foundation  
+- Security-first approach  
+- Automate > Repeat  
 
 </details>
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
-### ☁️ Cloud
+###  Cloud
 <p>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 </p>
 
-### 🚀 DevOps & CI/CD
+###  DevOps & CI/CD
 <p>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
 <img src="https://img.shields.io/badge/CI/CD-Continuous_Integration-0A66C2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
-### 🐧 System & Infrastructure
+###  System & Infrastructure
 <p>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
 </p>
 
-### 🌐 Web
+###  Web
 <p>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
@@ -66,7 +66,7 @@
 
 ---
 
-## 📊 Live GitHub Analytics
+##  Live GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shubhamjakhmola&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -78,7 +78,7 @@
 
 ---
 
-## ⚡ Current Focus
+##  Current Focus
 
 ```bash
 • Strengthening CI/CD pipelines
